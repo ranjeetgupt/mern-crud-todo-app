@@ -1,0 +1,25 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+background: #f1f2f5;
+margin: 0;
+padding: 20px;
+}
+.table-wrapper {
+background: white;
+border-radius: 6px;
+box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+overflow: hidden;
+}
+thead th {
+background: #6b7280;
+color: white;
+padding: 14px;
+text-align: left;
+font-weight: 700;
+letter-spacing: 0.6px;
+}
+tbody td {
+padding: 12px;
+color: #333;
+}
+.action-link { cursor: pointer; margin-right: 10px; }
